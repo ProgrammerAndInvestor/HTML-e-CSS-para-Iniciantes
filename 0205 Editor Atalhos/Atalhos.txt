@@ -1,0 +1,25 @@
+Copiar - CTRL + C
+
+Colar - CTRL + V
+
+Desfazer digitação - CTRL + Z
+
+Refazer digitação - CTRL + SHIFT + Z
+
+Mover a linha selecionada - ALT + ↑ ou ALT + ↓
+
+Seleciona a palavra no cursor ou a próxima ocorrência da seleção atual - CTRL + D
+
+Comentar o código - CTRL + ;
+
+Ocultar o explorador dos arquivos - CTRL + B
+
+-------
+
+Criar atalhos: 
+
+Aperte CTRL + SHIFT + P e digite "Keyboard Shortcuts". Basta adicionar ou alterar os atalhos desejados.
+
+
+
+
