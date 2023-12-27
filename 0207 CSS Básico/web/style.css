@@ -1,0 +1,18 @@
+/*
+ * Seletor - seleciona o elemento(s) que deve ser estilizado.
+ * Bloco CSS - engloba as propriedades que serão aplicadas ao seletor.
+ * Propriedade - define o que será alterado.
+ * Valor - define o valor do novo estilo.
+ *
+ * OBS: Após a prorpiedade coloca-se ":" e após o valor, ";".
+*/
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    color: tomato; /* Caso haja duas propriedades do mesmo a tipo, a útlima irá sobrepor a primeira, como uma cascata. */
+    font-size: 32px;
+}
