@@ -1,3 +1,0 @@
-Live Server - Servidor local para hospedar um projeto e atualizar a página automaticamente quando ocorrer alterações no código.
-
-Prettier - Ferramente para formatação de código. (Atalho para formatação: ALT + SHIFT + F)
